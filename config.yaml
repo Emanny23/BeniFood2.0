@@ -1,0 +1,19 @@
+cookies:
+  expiry_days: 30
+  key: another_random_signature_key
+  name: benifood_auth_cookie_v2
+credentials:
+  usernames:
+    admin:
+      email: admin@example.com
+      name: Admin User
+      password: $2b$12$t8hjAYi8ZjjmDJtU6WrlT.1eOnoLiUAJpjLvU4F807hv7SIj7s8Ji
+    manny123:
+      email: leo.enock1@gmail.com
+      failed_login_attempts: 0
+      first_name: Emmanuel
+      last_name: Enock
+      logged_in: true
+      password: $2b$12$1U9Rlh1FKUbxpXMpiYZRL.6Smh3rnNKxgKdVCjGIE8wGjQdPQjMKC
+      password_hint: My name
+      roles: null
